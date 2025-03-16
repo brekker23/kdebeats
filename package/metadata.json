@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "brekker23@proton.me",
+                "Name": "brekker23"
+            }
+        ],
+        "Category": "Media Control",
+        "Description": "A beautiful interactive media controller widget",
+        "Icon": "battery",
+        "Id": "com.github.zren.kdebeats",
+        "Name": "KDEbeats",
+        "Version": "0",
+        "Website": "https://github.com/brekker23/kdebeats"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}

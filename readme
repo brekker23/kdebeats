@@ -4,3 +4,5 @@ for anyone helping with the project, here is the documetation for kde extensions
 https://develop.kde.org/docs/plasma/widget/
 
 first thing we need to do is get a widget window to appear
+
+NOTE: qml is similar to javascript and xml is similar to html
