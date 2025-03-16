@@ -3,6 +3,12 @@ This is a kde extension which is a media controller app which uses a pretty UI w
 for anyone helping with the project, here is the documetation for kde extensions
 https://develop.kde.org/docs/plasma/widget/
 
-first thing we need to do is get a widget window to appear
+right now the project is a simple hello world widget
 
 NOTE: qml is similar to javascript and xml is similar to html
+
+
+HOW TO RUN IT?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+to test/run the applet in windowed mode first install plasma-sdk
+then run `plasmoidviewer -a /path/to/package` 
