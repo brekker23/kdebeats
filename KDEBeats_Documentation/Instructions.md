@@ -1,0 +1,1 @@
+You can open this folder as an Obsidian vault in order to more easily collaborate on these files, and then sync them with git when necessary :D
